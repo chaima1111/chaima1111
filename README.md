@@ -15,7 +15,7 @@
 
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chaima1111&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chaima1111&show_icons=true&layout=compact&theme=radical)
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaima-cheniti-0bb762242/)
