@@ -25,7 +25,7 @@
 - Email: chaimacheniti19@gmail.com
 
 ## 🚀 Featured Projects
-1. [Project Name](https://vercel.com/chaima1111s-projects/ca-bag-shop-9r9f/2dJXSmxxN94qXWerZLKfKTJykAXa)
+1. [CA-Shop](https://ca-bag-shop-9r9f.vercel.app/)
    - A bag shop using just HTML CSS JS
 <!--2. [Project Name](Project_URL)
    - Brief description
