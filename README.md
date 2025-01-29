@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**chaima1111/chaima1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm CHAIMA CHENITI
 
-Here are some ideas to get you started:
+## About Me
+🎓 I'm a CS student 
+🌱 Currently learning React JS
+💡 Passionate about Cyber Security , AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Programming Languages: JS , Java , PYTHON , C 
+- Frontend: REACT JS 
+- Backend: Express JS
+- Database: MySQL , MongoDB
+
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaima-cheniti-0bb762242/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](Your_Portfolio_URL)
+
+## 📫 How to reach me
+- Email: chaimacheniti19@gmail.com
+
+## 🚀 Featured Projects
+1. [Project Name](https://vercel.com/chaima1111s-projects/ca-bag-shop-9r9f/2dJXSmxxN94qXWerZLKfKTJykAXa)
+   - A bag shop using just HTML CSS JS
+<!--2. [Project Name](Project_URL)
+   - Brief description
+3. [Project Name](Project_URL)
+   - Brief description>
